@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Viswanath+Balla;AI%2FML+%7C+Generative+AI+%7C+Intelligent+Systems;Building+ideas+into+useful+AI+products" alt="Typing introduction" />
+# 𝙑𝙞𝙨𝙬𝙖𝙣𝙖𝙩𝙝 𝘽𝙖𝙡𝙡𝙖
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=AI%2FML+Developer;Generative+AI+%7C+Machine+Learning;Building+ideas+into+useful+AI+products" alt="Animated professional tagline" />
 
 <p>
   <a href="https://github.com/Viswanath-Balla">
@@ -70,7 +72,7 @@
 ## `03` — Tools I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,sklearn,tensorflow,fastapi,postgres,mysql,docker,git,github,linux&perline=6" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,fastapi,git,github,docker,postgres,mysql&perline=5" alt="Python, Scikit-learn, TensorFlow, FastAPI, Git, GitHub, Docker, PostgreSQL, and MySQL icons" />
 </p>
 
 <p align="center">
