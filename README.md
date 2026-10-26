@@ -1,105 +1,133 @@
- <div align="center">
 
-# Hi, I'm Viswanath Balla 👋
+<div align="center">
 
-### AI/ML Developer | Machine Learning • Generative AI • Multi-Agent Systems
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Viswanath+Balla;AI%2FML+%7C+Generative+AI+%7C+Intelligent+Systems;Building+ideas+into+useful+AI+products" alt="Typing introduction" />
 
-I build practical AI systems that combine machine learning, LLMs, and backend engineering to solve real-world problems.
+<p>
+  <a href="https://github.com/Viswanath-Balla">
+    <img src="https://img.shields.io/badge/GitHub-Viswanath--Balla-161B22?style=flat&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/viswanath-balla-574047344/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Viswanath-Balla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/viswanath-balla-574047344/)
+**AI/ML developer in progress · Curious builder · Lifelong learner**
+
+*I enjoy turning data, models, and language-model capabilities into practical applications.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — A little about me
 
-- 🎓 Computer Science student specializing in **Artificial Intelligence and Machine Learning** at JNTU Hyderabad.
-- 🧠 Interested in Machine Learning, Deep Learning, NLP, Generative AI, and Multi-Agent Systems.
-- 🛠️ Enjoy building end-to-end AI applications, from data processing and model development to APIs and database integration.
-- 📚 Exploring LLM applications, agentic AI, and MLOps.
-- 🤝 Open to collaborating on AI/ML and software engineering projects.
+- 🎓 Studying at **JNTU Hyderabad**, with a focus on Artificial Intelligence and Machine Learning.
+- 🧠 Interested in **Machine Learning, Generative AI, NLP, and multi-agent systems**.
+- 🛠️ I like building end-to-end projects—from data preparation and model evaluation to APIs and database integration.
+- 🌱 Currently deepening my understanding of **LLM applications, agentic workflows, and MLOps**.
+- 🤝 Open to collaborating on thoughtful AI/ML and software projects.
 
-## 🚀 Featured Projects
+## `02` — Selected work
 
-### 🔐 [Digital Doppelgänger](https://github.com/Viswanath-Balla/Digital_Doppleganger)
-**Multi-Agent AI | Privacy Engineering | LLMs**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Viswanath-Balla/Digital_Doppleganger">Digital Doppelgänger</a></h3>
+      <p><sub>AI agents · Privacy engineering · LLMs</sub></p>
+      A defensive privacy-auditing system that examines how separate data fragments can combine to reveal sensitive information. Its agent workflow verifies findings with evidence and suggests targeted remediation.
+      <br/><br/>
+      <code>Zetaris</code> <code>Nightshift / Nemotron</code> <code>Multi-agent workflow</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Prithvi-Siddharth/OneClick.AI">OneClick.AI</a></h3>
+      <p><sub>No-code ML · Data exploration</sub></p>
+      A machine-learning experimentation platform designed to simplify dataset management, exploratory analysis, preprocessing, visualizations, and model training.
+      <br/><br/>
+      <code>FastAPI</code> <code>TiDB</code> <code>AWS S3</code> <code>Scikit-learn</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Viswanath-Balla/AutoGrade">AutoGrade</a></h3>
+      <p><sub>AI for education · Document understanding</sub></p>
+      An exam-processing application that uses Gemini Vision to extract and structure handwritten or printed exam content, with semantic similarity supporting answer comparison.
+      <br/><br/>
+      <code>Gemini API</code> <code>FastAPI</code> <code>TiDB</code> <code>SBERT</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Viswanath-Balla/Customer-Churn-Prediction">Customer Churn Prediction</a></h3>
+      <p><sub>Applied machine learning · Predictive analytics</sub></p>
+      A churn-prediction pipeline with preprocessing, domain-driven feature engineering, model comparison, and hyperparameter tuning. Logistic Regression was selected with emphasis on recall and interpretability.
+      <br/><br/>
+      <code>Python</code> <code>Scikit-learn</code> <code>GridSearchCV</code>
+    </td>
+  </tr>
+</table>
 
-Built a defensive privacy auditing platform that identifies potential personal data exposure, verifies risks using evidence, and recommends remediation strategies. Integrates Zetaris for data access and Nightshift/NVIDIA Nemotron for LLM-powered analysis.
+<p align="right"><a href="https://github.com/Viswanath-Balla?tab=repositories">Explore all repositories →</a></p>
 
-### 🤖 [OneClick.AI](https://github.com/Prithvi-Siddharth/OneClick.AI)
-**Machine Learning | FastAPI | TiDB | AWS S3**
+## `03` — Tools I work with
 
-Developed a no-code machine learning experimentation platform featuring dataset management, exploratory data analysis, SQL-based data exploration, visualizations, preprocessing, and model training workflows.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,sklearn,tensorflow,fastapi,postgres,mysql,docker,git,github,linux&perline=6" alt="Technology icons" />
+</p>
 
-### 📝 [AutoGrade](https://github.com/Viswanath-Balla/AutoGrade)
-**Generative AI | OCR | NLP | EdTech**
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Modeling%20%7C%20Evaluation-2563EB?style=flat-square" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Applications-7C3AED?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Backend-REST%20APIs-0F766E?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/MLOps-DVC%20%7C%20MLflow%20%7C%20Docker-475569?style=flat-square" alt="MLOps" />
+</p>
 
-Built an AI-assisted exam-processing system using the Google Gemini Vision API to extract and structure handwritten and printed exam content. Uses semantic similarity techniques to support automated answer evaluation.
+<details>
+  <summary><strong>Skills at a glance</strong></summary>
+  <br/>
 
-### 📊 [Customer Churn Prediction](https://github.com/Viswanath-Balla/Customer-Churn-Prediction)
-**Machine Learning | Scikit-learn | Feature Engineering**
+  | Area | Tools and concepts |
+  |---|---|
+  | Languages | Python, Java, C++ |
+  | ML & data | Scikit-learn, Pandas, NumPy, feature engineering, model evaluation |
+  | AI & NLP | Generative AI, LLM APIs, LangChain, semantic similarity, agent workflows |
+  | Backend | FastAPI, REST APIs, SQLAlchemy |
+  | Databases | PostgreSQL, MySQL/TiDB, DuckDB |
+  | Engineering | Git, GitHub, Docker, MLflow, DVC, GitHub Actions |
+</details>
 
-Developed a churn prediction pipeline using the Telco Customer Churn dataset. Implemented preprocessing, domain-driven feature engineering, model evaluation, and hyperparameter tuning, selecting Logistic Regression with a focus on recall and interpretability.
-
----
-
-## 🧰 Technical Skills
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**AI, Machine Learning & Data Science**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-Machine Learning • Deep Learning • Feature Engineering • Model Evaluation • NLP • Generative AI • LLM Applications
-
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-FastAPI • REST APIs • SQLAlchemy • PostgreSQL • MySQL/TiDB • DuckDB
-
-**MLOps & Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-Git • GitHub • Docker • MLflow • DVC • GitHub Actions
-
----
-
-## 🌱 Currently Learning
-
-- Generative AI and LLM application development
-- Agentic AI and multi-agent workflows
-- Retrieval-Augmented Generation (RAG)
-- MLOps and reproducible machine learning pipelines
-- Model deployment and production-ready AI systems
-
-## 📫 Connect With Me
-
-- **GitHub:** [Viswanath-Balla](https://github.com/Viswanath-Balla)
-- **LinkedIn:** [Viswanath Balla](https://www.linkedin.com/in/viswanath-balla-574047344/)
-
----
+## `04` — GitHub, in numbers
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viswanath-Balla&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswanath-Balla&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
+</div>
 
-### 💡 Learn. Build. Experiment. Improve.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Viswanath-Balla&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
 
-*Turning ideas into practical AI solutions.*
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viswanath-Balla&bg_color=00000000&color=64748b&line=2F81F7&point=2F81F7&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
 
+<sub>Stats and language charts are generated by community-hosted services and may occasionally be unavailable or differ from GitHub's own contribution view.</sub>
+
+## `05` — What I'm exploring
+
+- Building useful applications with **LLMs and agentic workflows**
+- Improving ML experimentation, evaluation, and reproducibility
+- Applying **MLOps** practices to model development and deployment
+- Designing reliable APIs and data-backed AI systems
+
+## `06` — Say hello
+
+If you're building something interesting in AI/ML or intelligent applications, I'd be glad to connect.
+
+<p align="center">
+  <a href="https://github.com/Viswanath-Balla">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/viswanath-balla-574047344/">LinkedIn</a>
+</p>
+
+<div align="center">
+  <sub>Designed with curiosity. Built one experiment at a time.</sub>
 </div>
