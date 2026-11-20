@@ -81,7 +81,7 @@ An end-to-end churn-prediction workflow covering preprocessing, feature engineer
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sklearn,tensorflow,fastapi,postgres,mysql,docker,git,github&perline=6" alt="Python, Java, C++, Scikit-learn, TensorFlow, FastAPI, PostgreSQL, MySQL, Docker, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=python,java,sklearn,tensorflow,fastapi,postgres,mysql,docker,git,github&perline=6" alt="Python, Java, C++, Scikit-learn, TensorFlow, FastAPI, PostgreSQL, MySQL, Docker, Git and GitHub" />
 
 </div>
 
